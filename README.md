@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
 
 
 
