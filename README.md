@@ -36,26 +36,24 @@
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="TailwindCSS"
                         src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
         </a>
-        <br>
-        <!-- Arduino -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-0000FF?style=flat-square&logo=Python&logoColor=white">
         </a>
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Django"
                         src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white">
         </a>
-        <br>
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Go"
                         src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=Go&logoColor=white">
         </a>
 </p>
 
-<details align="center">
+<details align="left">
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
     <br>
-    <p align="center"
+    <br>
+    <p align="left"
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
