@@ -37,8 +37,8 @@
                         src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
         </a>
         <!-- Arduino -->
-        <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-00979D?style=flat-square&logo=Python&logoColor=white">
         </a>
 </p>
 
