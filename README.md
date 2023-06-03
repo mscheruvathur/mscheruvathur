@@ -39,10 +39,10 @@
         <br>
         <!-- Arduino -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-00979D?style=flat-square&logo=Python&logoColor=white">
+                        src="https://img.shields.io/badge/-Python-0000FF?style=flat-square&logo=Python&logoColor=white">
         </a>
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Django"
-                        src="https://img.shields.io/badge/-Django-00979D?style=flat-square&logo=Django&logoColor=white">
+                        src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white">
         </a>
 </p>
 
