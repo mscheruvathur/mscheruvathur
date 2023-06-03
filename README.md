@@ -15,7 +15,7 @@
                 「 Focused on creating impactful web applications and frameworks that improve lives</b> 」
                 <br>
                 <br>
-                <b>Skilled in</b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
+                <b></></b>Skilled in <b>Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.</b>
                 <br>
                 <br>
         </samp>
@@ -26,7 +26,7 @@
         </a>
         <!-- React -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=black">
         </a>
         <!-- NextJS -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="NextJS"
@@ -43,7 +43,7 @@
                         src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white">
         </a>
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Go"
-                        src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=Go&logoColor=white">
+                        src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=Go&logoColor=black">
         </a>
 </p>
 
