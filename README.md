@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey There! 👋, I am Shamsad
 
-> Hey There!, I am Shamsad
+> more about me.
 
 「   I'm a software developer from Kerala   」
 「   Focused on creating impactful web applications and frameworks that improve lives   」
