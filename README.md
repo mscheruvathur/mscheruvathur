@@ -36,9 +36,13 @@
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="TailwindCSS"
                         src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
         </a>
+        <br>
         <!-- Arduino -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-00979D?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Django"
+                        src="https://img.shields.io/badge/-Django-00979D?style=flat-square&logo=Django&logoColor=white">
         </a>
 </p>
 
