@@ -42,6 +42,30 @@
         </a>
 </p>
 
+<details align="center">
+    <p align="center"
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:connect.mscheruvathur@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/msam_c" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/mscheruvathur/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="">
+        </a>
+    </p>
+</details>
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
 
 
