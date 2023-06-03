@@ -44,6 +44,10 @@
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Django"
                         src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white">
         </a>
+        <br>
+        <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="Go"
+                        src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=Go&logoColor=white">
+        </a>
 </p>
 
 <details align="center">
