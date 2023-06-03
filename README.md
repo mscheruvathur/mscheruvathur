@@ -47,6 +47,8 @@
 </p>
 
 <details align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
     <p align="center"
         <!-- Social Links -->
         <p>Find me on</p>
@@ -63,14 +65,14 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="">
+        <a href="" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
 </details>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
+
 
 
 
