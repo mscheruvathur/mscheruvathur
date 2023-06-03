@@ -15,7 +15,8 @@
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
                 <br>
-                Skilled in Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
+                <b>Skilled in</b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
+                <br>
                 <br>
         </samp>
         <!-- Technologies -->
