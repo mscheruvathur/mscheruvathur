@@ -1,7 +1,8 @@
 <!-- ### Hey There! 👋, I am Shamsad -->
+> Who I am.
 
 <h3 align="left">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There! 👋, I am
                 <b><a target="_blank" href="https://github.com/mscheruvathur">Shamsad</a></b>
         </samp>
 </h3>
@@ -9,12 +10,13 @@
 <p align="left">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a software developer from <b>Kerala</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
                 <br>
                 Skilled in Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
+                <br>
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
@@ -38,13 +40,6 @@
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>
 </p>
-
-> about me.
-
-「   I'm a software developer from Kerala   」
-「   Focused on creating impactful web applications and frameworks that improve lives   」
-
-Skilled in Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,bash,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,flask,git,github,gitlab,go,graphql,html,java,js,jest,jquery,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,postgres,powershell,prisma,py,pytorch,react,redis,redux,ruby,rust,sqlite,stackoverflow,tailwind,ts,vim,vscode,vue,wordpress&perline=15)]()
 
