@@ -1,6 +1,4 @@
 
-> About.
-
 <h3 align="left">
         <samp>&gt; Hey There! 👋, I am
                 <b><a target="_blank" href="https://github.com/mscheruvathur">Shamsad</a></b>
@@ -15,6 +13,12 @@
                 「 Focused on creating impactful web applications and frameworks that improve lives</b> 」
                 <br>
                 <br>
+        </samp>
+</p>
+> Skilled in
+<p align="left">
+        <!-- Intro -->
+        <samp>
                 <b>> Skilled in </b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
                 <br>
                 <br>
