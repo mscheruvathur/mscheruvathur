@@ -1,7 +1,7 @@
 
 <h3 align="left">
-        <samp>&gt; Hey There! 👋, I am
-                <b><a target="_blank" href="https://github.com/mscheruvathur">Shamsad</a></b>
+        <samp>Shamsad C
+                <b><a target="_blank" href="https://github.com/mscheruvathur">&gt; @mscheruvathur</a></b>
         </samp>
 </h3>
 
