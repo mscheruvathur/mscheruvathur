@@ -49,8 +49,6 @@
     <summary>&#9776; More</summary>
     <p align="left"
     <br>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,figma,kubernetes,linux,mongodb,mysql,nginx,ps,postgres,powershell,redis,sqlite,vscode&perline=15)]()
     <br>
         <!-- Social Links -->
         <p>Find me on</p>
