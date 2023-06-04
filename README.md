@@ -1,5 +1,5 @@
 
-> Who I am.
+> About.
 
 <h3 align="left">
         <samp>&gt; Hey There! 👋, I am
@@ -10,7 +10,7 @@
 <p align="left">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Kerala</b> 」
+                「 I'm a Self-Taught <b>Full-Stack Developer</b> 」
                 <br>
                 「 Focused on creating impactful web applications and frameworks that improve lives</b> 」
                 <br>
