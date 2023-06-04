@@ -15,7 +15,7 @@
                 <br>
         </samp>
 </p>
-> Skilled in
+> Skilled in.
 <p align="left">
         <!-- Intro -->
         <samp>
