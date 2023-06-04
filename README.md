@@ -8,7 +8,7 @@
 <p align="left">
         <!-- Intro -->
         <samp>
-                「 I'm a Self-Taught <b>Full-Stack Developer</b> 」
+                「 Self-Taught <b>Full-Stack Developer</b> 」
                 <br>
                 「 Focused on creating impactful web applications and frameworks that improve lives</b> 」
                 <br>
