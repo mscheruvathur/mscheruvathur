@@ -1,8 +1,8 @@
 
 <h3 align="left">
-        <samp>Shamsad C
-                <b><a target="_blank" href="https://github.com/mscheruvathur">&gt; @mscheruvathur</a></b>
-        </samp>
+        <h3>MUHAMMED SHAMSAD C. --
+                <b><a target="_blank" href="https://github.com/mscheruvathur">@mscheruvathur</a></b>
+        </h3>
 </h3>
 
 <p align="left">
@@ -13,10 +13,12 @@
                 「 Focused on creating impactful web applications and frameworks that improve lives</b> 」
                 <br>
                 <br>
-                <b>> Skilled in </b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
-                <br>
-                <br>
         </samp>
+        <h3>
+        <b>> Skilled in </b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
+                <br>
+                <br>
+        </h3>
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="JavaScript"
@@ -46,7 +48,7 @@
 </p>
 
 <details align="left">
-    <summary> <samp>&#9776; More</samp></summary>
+    <summary>&#9776; More</summary>
     <p align="left"
     <br>
 
