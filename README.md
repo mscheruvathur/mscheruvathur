@@ -14,11 +14,9 @@
                 <br>
                 <br>
         </samp>
-        <h3>
         <b>> Skilled in </b> Python, Go, Java, JavaScript, TypeScript, Rust,  Django, NodeJS, Next JS, React JS, React Native, MongoDB, Sql, Mean Stack, Full Stack and RESTfull API’s.
                 <br>
                 <br>
-        </h3>
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/mscheruvathur?tab=repositories" target="_blank"><img alt="JavaScript"
